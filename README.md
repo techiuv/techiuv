@@ -8,7 +8,7 @@ Hi there! I'm Yuvraj, a professional artist and web developer from Bihar, India.
 
 - **Artistic Mediums:** Charcoal, Acrylic, Oil
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
-- **Programming Languages:** Python, C, Java
+- **Programming Languages:** Python, C
 
 
 ## Location
