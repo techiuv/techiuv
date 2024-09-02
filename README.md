@@ -10,6 +10,8 @@ Hi there! I'm Yuvraj, a professional artist and web developer from Bihar, India.
 - **Web Development:** HTML, CSS, JavaScript, Bootstrap
 - **Programming Languages:** Python, C
 
+## Contact 
+[mail.yuvraj0317@gmail.com](mailto:mail.yuvraj0317@gmail.com)
 
 ## Location
 
