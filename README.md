@@ -1,48 +1,29 @@
-# Hi 👋, I am Yuvraj
+<h1 align="center">Hi 👋, I'm Yuvraj</h1>
+<h3 align="center">A passionate web developer from India</h3>
 
-### 🎨 Professional Artist & 🌐 Web Developer
+- 🔭 I’m currently working on **Advance Voice Assistant**
 
-Hi there! I'm Yuvraj, a professional artist and web developer from Bihar, India. I specialize in creating expressive artworks and developing websites that blend creativity with technology. My skill set spans various programming languages and art mediums, making me a versatile creator.
+- 🌱 I’m currently learning **Python**
 
----
+- 👯 I’m looking to collaborate on **AI/ML**
 
-### 💻 Programming Languages & Tools
+- 👨‍💻 All of my projects are available at [https://github.com/techiuv](https://github.com/techiuv)
 
-**Languages:**
+- 💬 Ask me about **JavaScript, Python**
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c&logoColor=white)
+- 📫 How to reach me **mail.yuvraj0317@gmail.com**
 
-**Web Development:**
+- ⚡ Fun fact **I am smart**
 
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://instagram.com/artistyuvraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="artistyuvraj_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/artistyuvraj_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="artistyuvraj_" height="30" width="40" /></a>
+</p>
 
-**Tools:**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=techiuv&show_icons=true&locale=en&layout=compact" alt="techiuv" /></p>
 
----
-
-### 📧 Contact
-
-[mail.yuvraj0317@gmail.com](mailto:mail.yuvraj0317@gmail.com)
-
-### Find me on
-- [Instagram](https://www.instagram.com/artistyuvraj_)
-- [YouTube](https://www.youtube.com/artistyuvraj_)
-- [GitHub](https://github.com/techiuv)
-
----
-
-### 📍 Location
-
-Bihar, India
-
----
-
-Feel free to explore my repositories and connect with me!
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=techiuv&" alt="techiuv" /></p>
