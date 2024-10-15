@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👨‍💻 All of my projects are available at [techiuv.netlify.app](techiuv.netlify.app)
+- 👨‍💻 All of my projects are available at [techiuv.netlify.app](https://techiuv.netlify.app)
 
 - 💬 Ask me about **JavaScript, Python**
 
