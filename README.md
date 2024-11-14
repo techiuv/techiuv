@@ -10,7 +10,7 @@
 
 ### 🛠️ Languages and Tools:
 <p>
-	<img src="https://skillicons.dev/icons?i=html,css,js,py,c,tailwind,nodejs,bootstrap,flask,express,mongodb,mysql,scss,react,git,&perline=6" />
+	<img src="https://skillicons.dev/icons?i=html,css,js,py,c,tailwind,nodejs,bootstrap,flask,express,mongodb,mysql,scss,react,github,vscode,&perline=7" />
 </p>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiuv&theme=vue-dark&layout=compact&hide_border=true" />
