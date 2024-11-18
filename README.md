@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Yuvraj
  
 
-🔧 **Web Developer & Frontend Designer** passionate about building interactive and user-friendly web applications.
+ 🔧 **Web Developer & Frontend Designer** passionate about building interactive and user-friendly web applications.
 
 ### 💡 What I Do:
 - 🌟 **Frontend Development**: Creating dynamic, responsive websites with a focus on aesthetics and functionality.
@@ -13,16 +13,22 @@
 	<img src="https://skillicons.dev/icons?i=html,css,js,py,c,tailwind,nodejs,bootstrap,flask,express,mongodb,mysql,scss,react,github,vscode,&perline=8" />
 </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiuv&theme=vue-dark&layout=compact&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiuv&theme=vue-dark&layout=compact&hide_border=false" />
 
 ### 🤝 Let's Connect!
 I'm always excited to collaborate on creative projects and innovative solutions. Feel free to reach out!
 
-### 💎 Reach Me At:
+### 🌐 Reach Me At:
  <p align="left">
 <a href="https://fb.com/yuvrajartistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuvrajartistry" height="30" width="40" /></a>
 <a href="https://instagram.com/yuvrajartistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvrajartistry" height="30" width="40" /></a>
 <a href="https://www.youtube.com/yuvrajartistry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="yuvrajartistry" height="30" width="40" /></a>
 </p>
 
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=techiuv&limit=5&theme=vue-dark&combine_all_yearly_contributions=true)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=techiuv&icon=0&color=0)](https://visitcount.itsvg.in)
+
