@@ -1,15 +1,9 @@
-# 👋 Hi, I'm Yuvraj
+# 💫 About Me:
+🔭 **I’m currently working on:**  <br>Fullstack projects<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>C & C++<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I am smart.
  
 
- 🔧 **Web Developer & Frontend Designer** passionate about building interactive and user-friendly web applications.
-
-### 💡 What I Do:
-- 🌟 **Frontend Development**: Creating dynamic, responsive websites with a focus on aesthetics and functionality.
-- 📊 **Full Stack Projects**: Combining my frontend skills with backend technologies to develop robust web solutions.
-- 🔧 **Designing**: Translating ideas into visually appealing and efficient designs using Figma.
-
 ## 🛠️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,js,py,c,tailwind,nodejs,bootstrap,flask,express,mongodb,mysql,scss,react,github,vscode,nextjs,figma,redux,linux,vercel,&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,tailwind,nodejs,bootstrap,flask,express,mongodb,firebase,mysql,react,git,nextjs,redux,linux,vercel,aws,&perline=7" />
 
 ##  📊 GitHub Stats:
 
@@ -18,9 +12,6 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techiuv&theme=vue-dark&layout=compact&hide_border=false" />
-
-### 🤝 Let's Connect!
-I'm always excited to collaborate on creative projects and innovative solutions. Feel free to reach out!
 
 ## 🌐 My Social Account:
  <p align="left">
