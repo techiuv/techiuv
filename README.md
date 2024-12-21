@@ -1,9 +1,24 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  <br>Fullstack projects<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>C & C++<br><br>💬 **Ask me about:**  <br>JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I am smart.
- 
+<h1 align="center">Hi 👋, I'm Yuvraj</h1>
+<h3 align="center">A passionate web developer from India</h3>
+
+
+- 🔭 I’m currently working on **web sockets**
+
+- 🌱 I’m currently learning **Typescript**
+
+- 👯 I’m looking to collaborate on **Mern Projects**
+
+- 👨‍💻 All of my projects are available at [https://portfolioyuv.netlify.app](https://portfolioyuv.netlify.app)
+
+- 💬 Ask me about **JavaScript, React, Nextjs, Node.js, and any general software development questions.**
+
+- 📫 How to reach me **mail.yuvraj0317@gmail.com**
+
+- ⚡ Fun fact **I am smart**
+
 
 ## 🛠️ Languages and Tools:
-<img src="https://skillicons.dev/icons?i=html,css,js,py,c,cpp,tailwind,nodejs,bootstrap,flask,express,mongodb,firebase,mysql,react,git,nextjs,redux,linux,vercel,aws,&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,py,c,nodejs,react,nextjs,bootstrap,tailwind,flask,express,mongodb,firebase,mysql,git,redux,vercel,postman,yarn,&perline=7" />
 
 ##  📊 GitHub Stats:
 
